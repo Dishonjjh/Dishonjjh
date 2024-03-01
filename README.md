@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dishon! <br/><a href="https://github.com/Dishonjjh/Dishonjjh/">Programmer</a>, <a href="https://www.linkedin.com/in/dishon/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Dishon! <br/><a href="https://github.com/Dishonjjh/Dishonjjh/">Programmer</a>, <a href="https://www.linkedin.com/in/dishon/">Cybersecurity </a>,
 
 <h2>👨‍💻 My Projects:</h2>
 
