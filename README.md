@@ -2,14 +2,11 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]()
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
+
 - <b>PowerShell</b>
   -
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [host port scanner ()](https://github.com/Dishonjjh/python_host_and_port_scanner)
  
   - <h2>👨‍💻 Certifications:</h2>
 
